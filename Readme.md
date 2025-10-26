@@ -8,7 +8,7 @@ Check if the virtual environment is activated by seeing if the name of the envir
 
 2. Clone the repository:
 ```
-git clone https://github.com/AryaStark13/image-captioning.git
+git clone https://github.com/varaun2002/image-captioning.git
 ```
 
 3. Install the requirements:
