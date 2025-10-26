@@ -1,5 +1,3 @@
-# image-captioning
-
 1. Create a virtual environment and activate it.
 ```
 python -m venv image_captioning_cleaned_env
